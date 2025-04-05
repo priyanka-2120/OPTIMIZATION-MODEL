@@ -25,3 +25,7 @@ Results and Insights: The notebook outputs the optimal production plan (e.g., 40
 Deliverable: The deliverable is a Jupyter notebook demonstrating the problem setup, PuLP implementation, solution, and insights. It includes code, explanations, and visualizations, meeting CODTECH’s requirement for an optimization model showcase. The project highlights practical application of linear programming to improve efficiency and profitability.
 
 Tools: Python, PuLP, NumPy, and Matplotlib are used, showcasing optimization techniques in a business context.
+
+#Output
+
+![Image](https://github.com/user-attachments/assets/95134cb7-7d42-42e0-9f62-5f7657e1db6b)
